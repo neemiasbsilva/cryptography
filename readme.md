@@ -5,8 +5,37 @@
 
 ## Description 
 
+This repository has the purpose for put some cryptography implementations methods. For use each algorithm you have to do the exatly the
+getting started section.
 
-#
+## Getting Started
+
+### Prerequisites
+What things you need to undertand this repository
+
+```
+ A knowledgment in Cryptography algorithms.
+```
+
+### Usage Cesar Cifar
+
+Need to run the following command.
+```
+    python cesar_cifer.py
+```
+
+### Usage Morphological Cryptography
+
+Need to run the following command.
+```
+    python letter.py
+```
+
+## Notes
+
+The Morphological Cryptography algorithm, its not okay yet.
+
+# 
 
 <p align="center"><b>Sincerely:</b> <a href="https://github.com/neemiasbsilva">Neemias B. Silva</a></p>
 
