@@ -21,14 +21,14 @@ What things you need to undertand this repository
 
 Need to run the following command.
 ```
-    python cesar_cifer.py
+ python cesar_cifer.py
 ```
 
 ### Usage Morphological Cryptography
 
 Need to run the following command.
 ```
-    python letter.py
+ python letter.py
 ```
 
 ## Notes
