@@ -24,11 +24,21 @@ Need to run the following command.
  python cesar_cifer.py
 ```
 
-### Usage Morphological Cryptography
+### Usage Monoalphabetic Cryptography
 
 Need to run the following command.
 ```
  python letter.py
+```
+
+### Usage Polyalphabetic Cryptography
+```
+ python polyalphabetic_enc.py
+```
+
+### Usage Polyalphabetic Cryptography
+```
+ python polyalphabetic_dec.py
 ```
 
 ## Notes
