@@ -41,6 +41,11 @@ Need to run the following command.
  python polyalphabetic_dec.py
 ```
 
+### Usage RC4 Cryptography Algorithm (Cifer Flow)
+```
+ python polyalphabetic_dec.py
+```
+
 ## Notes
 
 The Morphological Cryptography algorithm, its not okay yet.
