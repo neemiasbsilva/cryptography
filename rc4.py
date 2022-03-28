@@ -53,4 +53,7 @@ with open("./data/cryptography/cifrado.txt", 'r', encoding = 'unicode_escape') a
          desc_out += chr(ord(map_char(map_num(char))) ^ PRGA(S, N))
          # print(("%c") % (map_char(map_num(char) ^ PRGA(S, N))))
       desc_out += '\n'
-print(desc_out)
+
+f = open(os.path.join("./reports", "rc4_dec.txt"), 'w')
+f.write(desc_out)
+f.close()
